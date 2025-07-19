@@ -8,7 +8,7 @@ A dynamic, interactive JSON Schema Builder application built with React, Ant Des
 
 ## Screenshot
 
-![JSON Schema Builder Screenshot](public/screenshot.png)
+![JSON Schema Builder Screenshot](./screenshot.png)
 
 ## Features
 
