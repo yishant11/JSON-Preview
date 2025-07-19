@@ -1,71 +1,56 @@
-JSON Schema Builder
+# JSON Schema Builder
 
 A dynamic, interactive JSON Schema Builder application built with React, Ant Design, React Hook Form, and Tailwind CSS. Define JSON schemas by adding, editing, and nesting fields, with real-time preview of the generated JSON.
 
-Live Demo: https://tiny-fox-2eb898.netlify.app/
+## Live Demo
 
-Screenshot
+[https://tiny-fox-2eb898.netlify.app/](https://tiny-fox-2eb898.netlify.app/)
 
+## Screenshot
 
+![JSON Schema Builder Screenshot](public/images/schema-builder-screenshot.png)
 
-Schema Builder (left) and live JSON Preview (right)
+## Features
 
-Features
+*   Add, edit, and delete fields dynamically
+*   Support for String, Number, and Nested field types
+*   Recursive nested fields for deep schema structures
+*   Real-time JSON preview synchronized with builder
+*   Responsive split-layout using Tailwind CSS
+*   Built with Ant Design components and React Hook Form for robust form handling
 
-Add, edit, and delete fields dynamically
+## Installation
 
-Support for String, Number, and Nested field types
+Clone the repository:
 
-Recursive nested fields for deep schema structures
+\`\`\`bash
+git clone <repository-url>
+cd json-schema-builder
+\`\`\`
 
-Real-time JSON preview synchronized with builder
+Install dependencies:
 
-Responsive split-layout using Tailwind CSS
-
-Built with Ant Design components and React Hook Form for robust form handling
-
-Installation
-
-Clone the repository
-
-git clone <your-repo-url>
-cd <project-folder>
-
-Install dependencies
-
+\`\`\`bash
 npm install
+\`\`\`
 
-Run in development mode
+Run in development mode:
 
+\`\`\`bash
 npm start
+\`\`\`
 
-Build for production
+Build for production:
 
+\`\`\`bash
 npm run build
+\`\`\`
 
-Technologies Used
+## Technologies Used
 
-React for UI
-
-Ant Design for ready-made UI components
-
-React Hook Form for form state management
-
-Tailwind CSS for utility-first styling
-
-Netlify for hosting live demo
-
-File Structure
-
-src/
-├── components/
-│   ├── SchemaBuilder.jsx
-│   ├── NestedArray.jsx
-│   └── JsonPreview.jsx
-├── App.jsx
-└── index.jsx
-
-License
-
-This project is open source and available under the MIT License.
-
+*   **React**: For UI
+*   **Ant Design**: For ready-made UI components
+*   **React Hook Form**: For form state management
+*   **Tailwind CSS**: For utility-first styling
+*   **Netlify**: For hosting live demo
+\`\`\`
