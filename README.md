@@ -8,16 +8,16 @@ A dynamic, interactive JSON Schema Builder application built with React, Ant Des
 
 ## Screenshot
 
-![JSON Schema Builder Screenshot](public/images/schema-builder-screenshot.png)
+![JSON Schema Builder Screenshot](public/screenshot.png)
 
 ## Features
 
-*   Add, edit, and delete fields dynamically
-*   Support for String, Number, and Nested field types
-*   Recursive nested fields for deep schema structures
-*   Real-time JSON preview synchronized with builder
-*   Responsive split-layout using Tailwind CSS
-*   Built with Ant Design components and React Hook Form for robust form handling
+- Add, edit, and delete fields dynamically
+- Support for String, Number, and Nested field types
+- Recursive nested fields for deep schema structures
+- Real-time JSON preview synchronized with builder
+- Responsive split-layout using Tailwind CSS
+- Built with Ant Design components and React Hook Form for robust form handling
 
 ## Installation
 
@@ -48,9 +48,9 @@ npm run build
 
 ## Technologies Used
 
-*   **React**: For UI
-*   **Ant Design**: For ready-made UI components
-*   **React Hook Form**: For form state management
-*   **Tailwind CSS**: For utility-first styling
-*   **Netlify**: For hosting live demo
-\`\`\`
+- **React**: For UI
+- **Ant Design**: For ready-made UI components
+- **React Hook Form**: For form state management
+- **Tailwind CSS**: For utility-first styling
+- **Netlify**: For hosting live demo
+  \`\`\`
