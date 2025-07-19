@@ -8,7 +8,7 @@ A dynamic, interactive JSON Schema Builder application built with React, Ant Des
 
 ## Screenshot
 
-![JSON Schema Builder Screenshot](https://drive.google.com/drive/folders/1qMnxff_ACbIA9A3SgV2VG-7NfIIGGtwq?usp=sharing)
+Screenshot link : https://drive.google.com/drive/folders/1qMnxff_ACbIA9A3SgV2VG-7NfIIGGtwq?usp=sharing
 
 ## Features
 
